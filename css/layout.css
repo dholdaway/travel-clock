@@ -1,2 +1,5 @@
 .container{width:940px;margin:30px auto;}.container .clock .digit{float:left;font-size:180px;font-weight:bold;}
 .container .clock .seperator{float:left;font-size:180px;}
+.container .alarm{clear:both;text-align:center;}.container .alarm p{font-size:50px;color:red;clear:both;font-weight:bold;display:none;}
+.container .alarm .set{cursor:pointer;font-size:20px;border:1px solid #cccccc;padding:5px;}
+.container .alarm .setTime{color:blue;font-size:30px;font-weight:bold;}
